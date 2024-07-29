@@ -399,10 +399,10 @@ def recomendacion(nombre_pelicula: str):
     return dictionary
 
 
-
+ 
 
 # Función de la direccion raíz del proyecto
 @app.get("/")
 def reload_root():
     
-    return {f"Bienvenido a MovMod, hay {df['release_date'].count()} datos cargados."}
+    return {f"Bienvenido a MovMod, hay {df['release_date'].count()} datos cargados para consultas y {df_Ml['title'].count()} para recomendación."}
