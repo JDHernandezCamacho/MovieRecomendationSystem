@@ -1,4 +1,4 @@
-# 💡``` | 🚀 Proyecto Integrador Machine Learning 🚀 | FastApi | Render | 🚀 Sistema de recomendación de películas 🚀 | 🚀 Henry 🚀 ```💡
+# ``` | ✏️ Proyecto Integrador Machine Learning ✏️ |🟢 FastApi 🟢|🔵 Render 🔵| 🔴 Sistema de recomendación de películas 🔴 | 🚀 Henry 🚀 ```
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -11,6 +11,8 @@
 
 
 ![Barner](/assets/barner.png)
+
+# Puedes consultar el proyecto deployado aquí :https://movierecomendationsystem.onrender.com/
 
 # ✔️``Introducción``
 
@@ -88,6 +90,7 @@ El Machine Learning consta de 3 pasos indispensables para ser llevado a cabo;
     - Y por último, el deployment del sistema de recomendación de películas.
 
 ![GitHub](/assets/Recomendation.png)
+
 
 
 # ✔️```Herramientas y librerias utilizadas```
