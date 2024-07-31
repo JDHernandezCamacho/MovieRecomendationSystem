@@ -12,7 +12,7 @@
 
 ![Barner](/assets/barner.png)
 
-# Puedes consultar el proyecto deployado aquí :https://movierecomendationsystem.onrender.com/
+# Puedes consultar el proyecto deployado aquí: https://movierecomendationsystem.onrender.com/
 
 # ✔️``Introducción``
 
