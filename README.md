@@ -80,7 +80,7 @@ Una vez que los datos estén procesados y se tenga un entendimiento de los mismo
 ![FastAPI](/assets/FastAPI.png)
 
 
-4. ## 🖥️ Virtualización y deployment
+5. ## 🖥️ Virtualización y deployment
 Para la ejecución de las API´s se recurrió al alojamiento del proyecto en los repositorios de GIt Hub, conectado el repositorio con Render, se realizó el deployment, esto con la finalidad de poder visualizar las consultas y así tener la información disponible para consumo. 
 > [!IMPORTANT]
 > Cabe recalcar que se utilizó render en modo gratuito por lo que se redujeron los datos para su correcto funcionamiento.
