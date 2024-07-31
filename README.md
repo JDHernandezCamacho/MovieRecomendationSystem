@@ -139,7 +139,7 @@ Para dar cierre al desarrollo del proyecto, se concluye que el proyecto ha logra
 
 # ✔️```Sobre mi```
 
-| [<img src="https://media.licdn.com/dms/image/D5603AQEnBacsLH1pnA/profile-displayphoto-shrink_800_800/0/1715214794765?e=1727913600&v=beta&t=2UKwQG8Hd4qK4Ac_R40acaT1UojfqqtOkECmPSpxs4s" width=150><br><sub>Juan DIego Hernández Camacho</sub>](https://www.linkedin.com/in/juan-diego-hernandez-camacho-5176022aa//)
+| [<img src="https://media.licdn.com/dms/image/D5603AQEnBacsLH1pnA/profile-displayphoto-shrink_800_800/0/1715214794765?e=1727913600&v=beta&t=2UKwQG8Hd4qK4Ac_R40acaT1UojfqqtOkECmPSpxs4s" width=150><br><sub>Juan DIego Hernández Camacho</sub>](https://www.linkedin.com/in/juan-diego-hernandez-camacho-5176022aa/)
 
 
 Gracias por leer este repositorio 💛
